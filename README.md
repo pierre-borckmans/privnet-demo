@@ -11,6 +11,3 @@ The UI then lets the user execute pings, digs, pokes or custom commands on each 
 
 
 <img width="1372" alt="image" src="https://github.com/railwayapp/private-networking-playground/assets/5610359/4554a184-ed15-42d7-bd8c-782a2bf4d7a6">
-
-
-
